@@ -14,6 +14,6 @@ public class SpringReactiveMongoDbDemoApplication {
 
 		/*
 		 *	Dependencies: Spring Reactive Web, Spring Data Reactive MongoDB 
-		 * 
+		 *      Note: 1st run MongoDB Server by mongod cmd.
 		 */
 		
